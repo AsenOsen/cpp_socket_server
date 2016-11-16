@@ -1,4 +1,4 @@
-# cpp_socket_server
+# Multithread socket server
 This is a tiny implementation of multithread socket server on C++
 
 # Description
